@@ -1,0 +1,18 @@
+<layout id="WatchFace">
+<label id="TimeLabel" x="center" y="40" font="@Fonts.WeatherFont" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+ <label id="DateLabel" x="center" y="30" font="@Fonts.xsmallFont" justification="Graphics.TEXT_JUSTIFY_CENTER" color="#FFFF35" />
+<label id="batteryLabel" x="center" y="110" font="@Fonts.smallFont" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="#48FF35" />
+<label id="stepsLabel" x="center" y="145" font="@Fonts.smallFont" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="#FFFF35" />
+<label id="heartLabel" x="center" y="180" font="@Fonts.smallFont" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="#EF1EB8" />
+<label id="caloriesLabel" x="center" y="215" font="@Fonts.smallFont" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="#00F7EE" />
+<label id="horoscopeLabel" x="center" y="250" font="@Fonts.WeatherFont" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="Graphics.COLOR_WHITE" />
+ <label id="sunriseLabel" x="73" y="110" font="@Fonts.smallFont" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+<label id="sunsetLabel" x="73" y="200" font="@Fonts.smallFont" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+<label id="sunriseLabelSU" x="73" y="70" font="@Fonts.WeatherFont" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+<label id="sunsetLabelSD" x="73" y="230" font="@Fonts.WeatherFont" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+ <label id="tempLabel" x="center" y="235" font="@Fonts.WeatherFont" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE" />
+<label id="connectLabelP" x="center" y="290" font="@Fonts.smallFont" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="#48FF35" />
+<label id="connectLabelB" x="center" y="290" font="@Fonts.smallFont" justification="Graphics.TEXT_JUSTIFY_LEFT" color="#EF1EB8" />
+</layout>   
+
+

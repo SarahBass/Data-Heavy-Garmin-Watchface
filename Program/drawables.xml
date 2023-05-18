@@ -1,0 +1,25 @@
+<drawables>
+<bitmap id="LauncherIcon" filename="launcher_icon.png" />
+<bitmap id="firstquar" filename="quar1.png" x = "center" dithering="none"/>
+<bitmap id="thirdquar" filename="quar3.png" x = "center" dithering="none"/>
+<bitmap id="newmoon" filename="new.png" x = "center" dithering="none"/>
+<bitmap id="full" filename="full.png" x = "center" dithering="none"/>
+<bitmap id="waxcres" filename="waxcres.png" x = "center" dithering="none"/>
+<bitmap id="wancres" filename="wancres.png" x = "center" dithering="none"/>
+<bitmap id="waxgib" filename="waxgib.png"  x = "center" dithering="none"/>
+<bitmap id="wangib" filename="wangib.png" x = "center" dithering="none"/>
+<bitmap id="star" filename="star150.png" x = "center" dithering="none"/>
+<bitmap id="egg" filename="egg150.png" x = "center" dithering="none"/>
+<bitmap id="eyes" filename="eyes0.png" x = "center" dithering="none"/>
+<bitmap id="mouth0" filename="mouth0.png" x = "center" dithering="none"/>
+<bitmap id="eyes1" filename="eyes1.png" x = "center" dithering="none"/>
+<bitmap id="mouth1" filename="mouth1.png" x = "center" dithering="none"/>
+<bitmap id="mouth2" filename="mouth2.png" x = "center" dithering="none"/>
+<bitmap id="mouth3" filename="mouth3.png" x = "center" dithering="none"/>
+<bitmap id="goal1" filename="goal1.png" x = "center" dithering="none"/>
+<bitmap id="goal2" filename="goal2.png" x = "center" dithering="none"/>
+<bitmap id="goal3" filename="goal3.png" x = "center" dithering="none"/>
+<bitmap id="goal4" filename="goal4.png" x = "center" dithering="none"/>
+<bitmap id="goal5" filename="goal5.png" x = "center" dithering="none"/>
+<bitmap id="blank" filename="blank.png" x = "center" dithering="none"/>
+</drawables>
