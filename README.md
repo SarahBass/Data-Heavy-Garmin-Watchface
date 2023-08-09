@@ -3,7 +3,8 @@
 # Virtual-Garmin-Pet
 Garmin Watch with animated pet that fits any size watch!
 
- [<img src="https://github.com/SarahBass/DataHeavyGarmin/blob/main/Untitled%20107.jpeg" width="200" height="100">](https://apps.garmin.com/en-US/apps/e3225022-f239-414a-868a-d658baf7db9b)
+ [<img src="https://github.com/SarahBass/Data-Heavy-Garmin-Watchface/assets/69780815/0bfd4e13-8a20-4c40-913e-8b3ae98cf625" width="256" height="144">](https://apps.garmin.com/en-US/apps/e3225022-f239-414a-868a-d658baf7db9b)
+
 
 
 Contents: | Description:
